@@ -33,6 +33,6 @@ TextMeshPro's standard word wrapping is practical, but it can sometimes produce 
 
 <img width="1421" height="329" alt="Screenshot_Balanced_TMP" src="https://github.com/user-attachments/assets/972c5c3f-1328-4806-bfb1-453756f2bca5" />
 
-##License
+## License
 
 This project is licensed under the PolyForm Noncommercial License 1.0.0.
